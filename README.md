@@ -33,7 +33,6 @@ Designed with **real-world scalability**, **clean architecture**, and **a user-f
 |  **Scheduling**      |  Custom scheduler with Calendar support                       |
 |  **Dev Tools**       |  Git, GitHub, Postman, ESLint, Prettier                       |
 |  **Deployment**      |  Render / Vercel (Frontend), Render / Railway (Backend)       |
-|                      |                                                               |
 ----------------------------------------------------------------------------------------
 
 
